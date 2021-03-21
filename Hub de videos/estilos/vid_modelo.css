@@ -1,0 +1,19 @@
+main {
+  text-align: center;
+}
+
+#interface a {
+  display: block;
+  text-align: center;
+  margin-top: 35px;
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  font-size: 16pt;
+  color: white;
+  position: relative;
+}
+
+#video iframe{
+  width: 854px;
+  height: 480px;
+}
